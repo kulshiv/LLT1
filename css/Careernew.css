@@ -1,0 +1,155 @@
+.navbar {
+      margin-bottom: 0;
+      background-color: #FFFFFF !important;
+      z-index: 9999;
+      border: 0;
+      font-size: 15px !important;
+      line-height: 1.42857143 !important;
+      letter-spacing: 1px;
+      border-radius: 0;
+      font-family: Metropolis Regular, sans-serif;
+      font-style: 'Metropolis' , sans-serif;
+  }
+
+
+  .navbar li{
+    padding-left: 15px;
+  }
+  .navbar li a, .navbar .navbar-brand {
+      color: #000 !important;
+  }
+  .navbar-nav li a:hover, .navbar-nav li.active a {
+      color: #EEE !important;
+      background-color: #fff !important;
+  }
+  .navbar-default .navbar-toggle {
+      border-color: transparent;
+      color: #000 !important;
+  }
+
+ #myNavbar{
+    margin-left: 50px;
+  }
+
+  .jumbotron {
+      background-color: #000C30;
+      color: #FF3F3F;
+      margin-bottom: 0px !important;
+      font: Futura-Bold;
+      margin-top: 40px;
+      padding-left: 30px;
+
+  }
+
+
+  #benefits{
+    background-color: #ffffff;
+      color: #FF3F3F;
+      margin-bottom: 0px !important;
+      font: Futura-Bold;
+      padding-left: 30px;
+  }
+
+  #benefits h2{
+    color: #FFFFFF;
+    font-style: 'Futura-Bold';
+    margin-left: 3vw;
+    margin-top: 4vw;
+    font-size: 2.8vw 4vw;
+    font-weight: 800;
+    letter-spacing: 0.1vw;
+  }
+
+  #benefits .panel-team{
+    color: #FFFFFF;
+    margin-left: 3vw;
+    margin-top: -0.5vw;
+    
+    font-family: Metropolis;
+    font-size: 1.6rem;
+
+  }
+
+  #benefits .panel-team2{
+    color: #FF3F3F;
+    margin-left: 3vw;
+    margin-top: -0.5vw;
+    font-size: 2.5rem;
+  }
+
+  #benefits .panel{
+    
+    
+
+  }
+
+  #titles h2{
+    font-family: 'Futura';
+    text-transform: uppercase;
+  }
+
+  #team h2{
+    font-family: 'Futura';
+  }
+
+  #benefits .panel-body{
+    background-color: #FFFFFF;
+    background-image: url("../Resources/img1(1).jpg");
+    height: 25rem;
+  }
+
+  
+  .jumbotron p {
+
+      color: #FFFFFF;
+      font-family: Metropolis, sans-serif;
+  }
+  .jumbotron-heading
+  {
+    font-family: Futura-Bold;
+    text-align: left;
+    font-weight: 900;
+    margin-top: 2px;
+  }
+
+  .panel-body
+  {
+    background-color: #EEEEEE;
+  }
+
+  .panel-p
+  {
+      color:#802020; 
+      margin-bottom: 2rem;
+      margin-top: -3rem;
+      font-size: 2.5rem; 
+      
+  }
+  .panel-team
+  {
+      color:#802020; 
+      margin-top:0px; 
+      margin-left: 0px;
+      margin-bottom: 0px;
+      font-size: 1.8rem;
+  }
+
+  .panel-body-content
+  {
+    font-family: Metropolis,sans-serif;
+    color: #000;
+  }
+
+  .panel-button1 { 
+  color: #FFF; 
+  font-family: 'Metropolis';
+  justify-content: center;
+  background-color: #FF3F3F; 
+  border: none;
+  text-align: center;
+  display: inline-block;
+  padding:6px 10px;
+    width:58%;
+    margin-top: 13px;
+    cursor: pointer;
+} 

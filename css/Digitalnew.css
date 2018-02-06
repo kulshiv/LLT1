@@ -1,0 +1,86 @@
+.navbar {
+      margin-bottom: 0;
+      background-color: #FFFFFF !important;
+      z-index: 9999;
+      border: 0;
+      font-size: 15px !important;
+      line-height: 1.42857143 !important;
+      letter-spacing: 1px;
+      border-radius: 0;
+      font-family: Metropolis Regular, sans-serif;
+      font-style: 'Metropolis' , sans-serif;
+  }
+
+
+  .navbar li{
+    padding-left: 15px;
+  }
+  .navbar li a, .navbar .navbar-brand {
+      color: #000 !important;
+  }
+  .navbar-nav li a:hover, .navbar-nav li.active a {
+      color: #EEE !important;
+      background-color: #fff !important;
+  }
+  .navbar-default .navbar-toggle {
+      border-color: transparent;
+      color: #000 !important;
+  }
+
+ #myNavbar{
+    margin-left: 50px;
+  }
+
+  .jumbotron {
+      background-color: #000C30 !important;
+      color: #FF3F3F !important;
+      margin-bottom: 0px !important;
+      
+      margin-top: 40px;
+      padding-left: 30px;
+
+  }
+  
+  .jumbotron p {
+      font-size: 16.5px; 
+      text-align: left; 
+      font-family: 'Metropolis Regular';
+      color: #EEEEEE; 
+  }
+  .jumbotron-heading
+  {
+    font-family: 'Futura-Bold';
+    text-align: left;
+    font-weight: 900;
+    color: #FF3F3F; 
+    font-size: 4.2vw !important;
+  }
+
+  .panel-body
+  {
+    background-color: #000C30;
+  }
+
+  .panel-p
+  {
+      color:#802020; 
+      margin-bottom: -1rem;
+      margin-top: -1rem;
+      font-size: 2.5rem;
+  }
+
+  .panel-body-content
+  {
+    font-family: Metropolis Regular;
+    color: #FFFFFF;
+    font-size: 20px;
+  }
+
+  .panel-body-dig
+  {
+    background-image: url('../Resources/img1.jpg');
+    background-size: cover;
+    padding: 3vw;
+  }
+
+  

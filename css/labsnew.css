@@ -1,0 +1,109 @@
+.navbar {
+      margin-bottom: 0;
+      background-color: #FFFFFF !important;
+      z-index: 9999;
+      border: 0;
+      font-size: 15px !important;
+      line-height: 1.42857143 !important;
+      letter-spacing: 1px;
+      border-radius: 0;
+      font-family: Metropolis Regular, sans-serif;
+      font-style: 'Metropolis' , sans-serif;
+  }
+
+
+  .navbar li{
+    padding-left: 15px;
+  }
+  .navbar li a, .navbar .navbar-brand {
+      color: #000 !important;
+  }
+  .navbar-nav li a:hover, .navbar-nav li.active a {
+      color: #EEE !important;
+      background-color: #fff !important;
+  }
+  .navbar-default .navbar-toggle {
+      border-color: transparent;
+      color: #000 !important;
+  }
+
+ #myNavbar{
+    margin-left: 50px;
+  }
+
+.jumbotron {
+      background-color: #000C30;
+      color: #FF3F3F;
+      margin-bottom: 0px !important;
+      font: Futura-Bold;
+      margin-top: 40px;
+      padding-left: 30px;
+
+  }
+  
+  .jumbotron p {
+
+      color: #FFFFFF;
+      font-family: Metropolis, sans-serif;
+  }
+  .jumbotron-heading
+  {
+    font-family: Futura-Bold;
+    text-align: left;
+    font-weight: 900;
+    font-size: 5.5vw !important;
+  }
+
+  .panel-body
+  {
+    background-color: #EEEEEE;
+    
+  }
+
+  .panel-p
+  {
+      color:#802020;
+      margin-bottom: 2rem;
+      margin-top: -3rem;
+      font-size: 2.5rem; 
+  }
+
+  .panel-body-content
+  {
+    font-family: Metropolis,sans-serif;
+    color: #000;
+  }
+
+  .panel-headingl {
+    font-size: 8.5vw;
+      text-transform: uppercase;
+      color: #FF3F3F; !important;
+      font-weight: 600;
+      border-bottom: 1px solid transparent;
+      border-top-left-radius: 0px;
+      border-top-right-radius: 0px;
+      border-bottom-left-radius: 0px;
+      border-bottom-right-radius: 0px;
+  }
+  h12 {
+    font-size: 3.5vw;
+      color: #000C30; !important;
+      text-transform: uppercase;
+      font-weight: 600;
+      font-family: Metropolis ;
+      margin: 0;
+  }
+  
+.labbutton1 {
+    background-color: #FF3F3F;
+    border: none;
+    color: white;
+    padding: 15px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font: 16px Metropolis;
+    margin: 2px 2px;
+    cursor: pointer;
+
+}
