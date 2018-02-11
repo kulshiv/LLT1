@@ -53,12 +53,18 @@
     text-align: left;
     font-weight: 900;
     color: #FF3F3F; 
-    font-size: 4.2vw !important;
+    font-size: 3.2vw !important;
   }
 
   .panel-body
   {
     background-color: #000C30;
+    padding-bottom: 3rem;
+    padding-right: 3rem;
+    padding-left: 3rem;
+    padding-top: 3rem;
+    height: 45rem;
+
   }
 
   .panel-p
@@ -81,6 +87,12 @@
     background-image: url('../Resources/img1.jpg');
     background-size: cover;
     padding: 3vw;
+  }
+
+  .container
+  {
+    margin: auto;
+    width: 94%;
   }
 
   
