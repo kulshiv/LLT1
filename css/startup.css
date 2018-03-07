@@ -31,28 +31,27 @@
     margin-left: 50px;
   }
 
-  .jumbotron {
-      background-color: #000C30 !important;
-      color: #FF3F3F !important;
+.jumbotron {
+      background-color: #000C30;
+      color: #FF3F3F;
       margin-bottom: 0px !important;
+      font: Futura-Bold;
       margin-top: 40px;
-      
+      padding-left: 0px;
 
   }
   
   .jumbotron p {
-      font-size: 16.5px; 
-      text-align: left; 
-      font-family: 'Metropolis Regular';
-      color: #EEEEEE; 
+
+      color: #FFFFFF;
+      font-family: Metropolis, sans-serif;
   }
   .jumbotron-heading
   {
-    font-family: 'Futura-Bold';
+    font-family: Futura-Bold;
     text-align: left;
     font-weight: 900;
-    color: #FF3F3F; 
-    font-size: 3.2vw !important;
+    font-size: 5.5vw !important;
   }
 
   .panel-body
@@ -81,17 +80,37 @@
     font-size: 20px;
   }
 
-  .panel-body-dig
-  {
-    background-image: url('../Resources/img1.jpg');
-    background-size: cover;
-    padding: 3vw;
-  }
-
-  .container
-  {
-    margin: auto;
-    width: 94%;
-  }
-
   
+.panel-body11
+  {
+    background-color: #FFF;
+    padding-bottom: 3rem;
+    padding-left: 3rem;
+    padding-right: 3rem;
+    padding-top: 3rem;
+  }
+
+  .panel-p11
+  {
+      color:#802020;
+      margin-bottom: 2rem;
+      margin-top: -3rem;
+      font-size: 2.5rem; 
+  }
+
+  .panel-body-content11
+  {
+    font-family: Metropolis,sans-serif;
+    color: #000;
+  }
+
+  .panel-headingl111 {
+    font-size: 1.7vw;
+      color: #FF3F3F; !important;
+      font-weight: 600;
+      border-bottom: 1px solid transparent;
+      border-top-left-radius: 0px;
+      border-top-right-radius: 0px;
+      border-bottom-left-radius: 0px;
+      border-bottom-right-radius: 0px;
+  }
